@@ -5,7 +5,11 @@
 
 As a Data Analyst with a strong background in SQL, BI tools Like Power BI, and a deep business mindset. Over 2 years of Experience in translating complex datasets into clear Insights to boost the decision- making process, with a Proven track record of enhancing business processes and growth
 
-Skills: Python / SQL / Power BI / Excel
+Skills: 
+ * Python /
+ *  SQL /
+ *  Power BI /
+ *   Excel
 
 
 
