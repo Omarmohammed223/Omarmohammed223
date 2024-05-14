@@ -1,32 +1,20 @@
-### Hi there 👋
-### Hi there 👋, My Name is Omar Mohammed
-#### I am Data Analyst
-![I am Data Analyst](https://media.licdn.com/dms/image/D4D16AQEOaVKvGQNB4w/profile-displaybackgroundimage-shrink_350_1400/0/1713902584273?e=1721260800&v=beta&t=4kFzQK3rxrNs7KPd_BCyDTCZD-IKhFxauSNNxDZStQw)
+## Hi there 👋 
+### My Name is Omar Mohammed
+### Data Anaylst
 
-As a Data Analyst with a strong background in SQL, BI tools Like Power BI, and a deep business mindset. Over 2 years of Experience in translating complex datasets into clear Insights to boost the decision- making process, with a Proven track record of enhancing business processes and growth
+(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVpendka2xsM3JrbGpseDlva3p5aG96ZW1naXpoMmw3c2JjbmIxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrXas5ecb4FkwbFpIE/giphy.gif)
 
-Skills: 
- * Python /
- *  SQL /
- *  Power BI /
- *   Excel
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/omar-mohammed-141800296/) 
 
+# 💻 Languages & Tools:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Omarmohammed223&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Omarmohammed223&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarmohammed223&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Omarmohammed223&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Omarmohammed223)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omar-mohammed-141800296/)  
-
-
-<!--
-**Omarmohammed223/Omarmohammed223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
